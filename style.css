@@ -1,0 +1,17 @@
+.rect{
+    display: flex;
+    border: 10px;
+    justify-content: center;
+    background-color: aliceblue;
+}
+
+.heading a{
+    display: flex;
+    text-decoration: none;
+    justify-content: center;
+}
+
+.main-text{
+    display: flex;
+    justify-content: center;
+}
