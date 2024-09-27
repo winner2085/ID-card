@@ -1,5 +1,5 @@
 *{
-   border: 1px solid green;
+    
 }
 
 body{
@@ -39,16 +39,15 @@ img{
     display: flex;
     width: 150px;
     height: 160px;
-    margin-top: 145px;
-    margin-left: 100px;
-    margin-bottom: 80px;
+    margin-top: 50px;
     border-radius: 50%;
-    align-self: start;
+    align-self: center;
 }
 
 .left{
     display: flex;
     align-content: flex-start;
+    flex-direction: column;
 }
 
 h1{
